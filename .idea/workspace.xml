@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc5271af-0b12-485f-8e84-8152bfcf24ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Classes/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/House.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1_2907/OOP/Incapsulations/Incapsulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson1_2907/OOP/Incapsulations/Incapsulation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1_2907/OOP/Incapsulations/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson1_2907/OOP/Incapsulations/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Incapsulations/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Incapsulations/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Classes/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/Cat.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+              <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -41,20 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Classes/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Classes/House.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -100,8 +93,8 @@
         <option value="$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java" />
         <option value="$PROJECT_DIR$/src/Classes/Gog.java" />
         <option value="$PROJECT_DIR$/src/Classes/Dog.java" />
-        <option value="$PROJECT_DIR$/src/Classes/Cat.java" />
         <option value="$PROJECT_DIR$/src/Classes/House.java" />
+        <option value="$PROJECT_DIR$/src/Classes/Cat.java" />
       </list>
     </option>
   </component>
@@ -128,12 +121,6 @@
               <item name="Lesson1_2907" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lesson1_2907" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lesson1_2907" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lesson1_2907" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Lesson1_2907" type="b2602c69:ProjectViewProjectNode" />
@@ -226,18 +213,18 @@
       <option name="presentableId" value="Default" />
       <updated>1564391020950</updated>
       <workItem from="1564391023194" duration="3176000" />
-      <workItem from="1564400053379" duration="1174000" />
+      <workItem from="1564400053379" duration="1616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4350000" />
+    <option name="totallyTimeSpent" value="4792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,14 +286,7 @@
     <entry file="file://$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Classes/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
         </state>
       </provider>
     </entry>
@@ -320,7 +300,14 @@
     <entry file="file://$PROJECT_DIR$/src/Classes/House.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
