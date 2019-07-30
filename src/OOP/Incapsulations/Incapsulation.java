@@ -7,5 +7,9 @@ public class Incapsulation {
         System.out.println(person.getName());
         person.setName("Kirill");
         System.out.println(person.getName());
+
+        person.setModel("Apple");
+        System.out.println(person.getModel()+" "+person.getNumber());
+
     }
 }
