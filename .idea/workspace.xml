@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc5271af-0b12-485f-8e84-8152bfcf24ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Incapsulations/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Incapsulations/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Polymorphism/BigDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Polymorphism/BigHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Polymorphism/Dog.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +18,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="11" selection-end-column="71" />
+            <state relative-caret-position="221">
+              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OOP/Polymorphism/BigHouse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Classes/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/OOP/Polymorphism/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OOP/Polymorphism/BigDog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -72,6 +109,9 @@
         <option value="$PROJECT_DIR$/src/OOP/Inheritance/World.java" />
         <option value="$PROJECT_DIR$/src/OOP/Incapsulations/Person.java" />
         <option value="$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java" />
+        <option value="$PROJECT_DIR$/src/OOP/Polymorphism/BigHouse.java" />
+        <option value="$PROJECT_DIR$/src/OOP/Polymorphism/Dog.java" />
+        <option value="$PROJECT_DIR$/src/OOP/Polymorphism/BigDog.java" />
       </list>
     </option>
   </component>
@@ -105,6 +145,12 @@
               <item name="Lesson1_2907" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lesson1_2907" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lesson1_2907" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lesson1_2907" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="OOP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -113,6 +159,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="OOP" type="462c0819:PsiDirectoryNode" />
               <item name="Incapsulations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lesson1_2907" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lesson1_2907" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="Inheritance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lesson1_2907" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lesson1_2907" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+              <item name="Polymorphism" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,7 +202,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Incapsulation">
+  <component name="RunManager" selected="Application.BigHouse">
+    <configuration name="BigHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.Polymorphism.BigHouse" />
+      <module name="Lesson1_2907" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="House" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Classes.House" />
       <module name="Lesson1_2907" />
@@ -194,9 +267,11 @@
       <item itemvalue="Application.Incapsulation" />
       <item itemvalue="Application.House" />
       <item itemvalue="Application.World" />
+      <item itemvalue="Application.BigHouse" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BigHouse" />
         <item itemvalue="Application.Incapsulation" />
         <item itemvalue="Application.World" />
         <item itemvalue="Application.House" />
@@ -214,12 +289,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564391020950</updated>
       <workItem from="1564391023194" duration="3176000" />
-      <workItem from="1564400053379" duration="3340000" />
+      <workItem from="1564400053379" duration="4100000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6516000" />
+    <option name="totallyTimeSpent" value="7276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -269,13 +344,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP/Incapsulations/Шnheritance.java" />
-    <entry file="file://$PROJECT_DIR$/src/Classes/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Classes/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -304,13 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/Inheritance/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP/Incapsulations/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -328,8 +389,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="11" selection-end-column="71" />
+        <state relative-caret-position="221">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP/Inheritance/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP/Polymorphism/BigHouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classes/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP/Polymorphism/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP/Polymorphism/BigDog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
