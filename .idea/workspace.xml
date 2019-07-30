@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc5271af-0b12-485f-8e84-8152bfcf24ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Inheritance/World.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson1_2907/Classes/House.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson1_2907/Classes/House.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Classes/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Incapsulations/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Incapsulations/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,38 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP/Inheritance/Human.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OOP/Inheritance/World.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OOP/Inheritance/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+            <state relative-caret-position="102">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="11" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -60,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OOP/Incapsulations/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="476">
+              <caret line="32" column="47" lean-forward="true" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
               <folding>
                 <element signature="e#298#299#0" expanded="true" />
                 <element signature="e#326#327#0" expanded="true" />
@@ -94,15 +63,15 @@
         <option value="$PROJECT_DIR$/src/Task2Incaps.java" />
         <option value="$PROJECT_DIR$/src/Incapsulation.java" />
         <option value="$PROJECT_DIR$/src/OOP/Incapsulation.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Incapsulations/Person.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java" />
         <option value="$PROJECT_DIR$/src/Classes/Gog.java" />
         <option value="$PROJECT_DIR$/src/Classes/Dog.java" />
         <option value="$PROJECT_DIR$/src/Classes/Cat.java" />
         <option value="$PROJECT_DIR$/src/Classes/House.java" />
-        <option value="$PROJECT_DIR$/src/OOP/Inheritance/Human.java" />
         <option value="$PROJECT_DIR$/src/OOP/Inheritance/Student.java" />
+        <option value="$PROJECT_DIR$/src/OOP/Inheritance/Human.java" />
         <option value="$PROJECT_DIR$/src/OOP/Inheritance/World.java" />
+        <option value="$PROJECT_DIR$/src/OOP/Incapsulations/Person.java" />
+        <option value="$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java" />
       </list>
     </option>
   </component>
@@ -143,7 +112,7 @@
               <item name="Lesson1_2907" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="OOP" type="462c0819:PsiDirectoryNode" />
-              <item name="Inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="Incapsulations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.World">
+  <component name="RunManager" selected="Application.Incapsulation">
     <configuration name="House" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Classes.House" />
       <module name="Lesson1_2907" />
@@ -228,9 +197,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Incapsulation" />
         <item itemvalue="Application.World" />
         <item itemvalue="Application.House" />
-        <item itemvalue="Application.Incapsulation" />
       </list>
     </recent_temporary>
   </component>
@@ -245,12 +214,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564391020950</updated>
       <workItem from="1564391023194" duration="3176000" />
-      <workItem from="1564400053379" duration="2605000" />
+      <workItem from="1564400053379" duration="3340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5781000" />
+    <option name="totallyTimeSpent" value="6516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -265,7 +234,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -300,28 +269,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP/Incapsulations/Шnheritance.java" />
-    <entry file="file://$PROJECT_DIR$/src/OOP/Incapsulations/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Classes/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -343,24 +290,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/Inheritance/Human.java">
+    <entry file="file://$PROJECT_DIR$/src/OOP/Inheritance/World.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="289">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP/Inheritance/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        <state relative-caret-position="323">
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/Inheritance/World.java">
+    <entry file="file://$PROJECT_DIR$/src/OOP/Inheritance/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        <state relative-caret-position="289">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP/Incapsulations/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="32" column="47" lean-forward="true" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP/Incapsulations/Incapsulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="11" selection-end-column="71" />
         </state>
       </provider>
     </entry>

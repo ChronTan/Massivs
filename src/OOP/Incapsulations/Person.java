@@ -24,5 +24,13 @@ public class Person {
     public int getNumber() {
         return number;
     }
+    public void step(int age,String name){
+        System.out.println("age: "+age);
+        System.out.println("name: "+ name);
+    }
+    public void step(int age){
+        System.out.println("age: "+age);
+        System.out.println("name: "+ "NoName");
+    }
 
 }
